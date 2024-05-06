@@ -11,6 +11,7 @@ import snow_icon from "../Assets/snow.png";
 import wind_icon from "../Assets/wind.png";
 import humidity_icon from "../Assets/humidity.png";
 
+
 const WeatherApp = () => {
 
       let api_key = "961a8402a1c80cc8bbd4479a0b200892";
