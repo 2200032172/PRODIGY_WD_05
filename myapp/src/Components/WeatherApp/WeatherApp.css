@@ -1,5 +1,5 @@
 .container {
-    width: 500px;
+    width: 600px;
     height: 750px;
     margin: auto;
     margin-top: 75px;
@@ -73,7 +73,7 @@
     }
 .data{
     font-size: 25px;
-    font-weight: 300;
+    font-weight: 350;
 }
 .text{
     font-size: 20px;
